@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkr2004&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkr2004" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C++ with Data Structures and Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/ankitkr2004/sites](https://app.netlify.com/teams/ankitkr2004/sites)
 
