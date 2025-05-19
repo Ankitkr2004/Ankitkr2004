@@ -34,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkr2004&show_icons=true&locale=en" alt="ankitkr2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkr2004&" alt="ankitkr2004" /></p>
+
+<h4 align="left">GitHub Contributions:</h4>
+<img src="https://github.com/Ankitkr2004/Ankitkr2004/blob/output/github-snake-dark.svg" alt="snake svg" />
