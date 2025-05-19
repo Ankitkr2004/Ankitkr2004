@@ -35,7 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkr2004&" alt="ankitkr2004" /></p>
 
-### 🐍 GitHub Contributions Snake
 
-![GitHub Snake dark](https://raw.githubusercontent.com/Ankitkr2004/Ankitkr2004/output/github-snake-dark.svg)
 
