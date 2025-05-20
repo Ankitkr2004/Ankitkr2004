@@ -46,7 +46,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkr2004&" alt="ankitkr2004" /></p>  
 
 <br/>
-### GitHub Contributions: 
+<h3 align="left">GitHub Contributions:</h3> 
 
 ![GitHub Snake dark](https://raw.githubusercontent.com/Ankitkr2004/Ankitkr2004/output/github-snake-dark.svg)
 
