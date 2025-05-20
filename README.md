@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkr2004&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkr2004" /> </p>
 
-- 🌱 I’m currently learning **C++ with Data Structures and Algorithm**
+- 🌱 I’m currently learning **DSA, DEV, Power BI, APACHE SPARK, ML**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/ankitkr2004/sites](https://app.netlify.com/teams/ankitkr2004/sites)
+- 👨‍💻 All of my projects are available at [https://dashboard.render.com/u/usr-cvsh2tp5pdvs73blitj0/settings](https://dashboard.render.com/u/usr-cvsh2tp5pdvs73blitj0/settings)
 
 - 📫 How to reach me **ankitkr829301@gmail.com**
 
@@ -42,10 +42,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkr2004&show_icons=true&locale=en&layout=compact" alt="ankitkr2004" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkr2004&show_icons=true&locale=en" alt="ankitkr2004" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkr2004&" alt="ankitkr2004" /></p>  
 
-
+<br/>
 ### GitHub Contributions: 
 
 ![GitHub Snake dark](https://raw.githubusercontent.com/Ankitkr2004/Ankitkr2004/output/github-snake-dark.svg)
