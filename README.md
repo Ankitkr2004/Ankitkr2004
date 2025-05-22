@@ -1,7 +1,7 @@
 ![link](https://github.com/Ankitkr2004/Ankitkr2004/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">A passionate about Data Engineer and Software Engineer</h3>
+<h3 align="center">A passionate about Data Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://dashboard.render.com/u/usr-cvsh2tp5pdvs73blitj0/settings](https://dashboard.render.com/u/usr-cvsh2tp5pdvs73blitj0/settings)
+- 👨‍💻 All of my projects are available at Vercel: [https://vercel.com/ankitkr2004s-projects](https://vercel.com/ankitkr2004s-projects)
 
 - 📫 How to reach me **ankitkr829301@gmail.com**
 
