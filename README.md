@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkr2004&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkr2004" /> </p>
 
-- 🌱 I’m currently learning **Backend and Machine Learning**
+- 🌱 I’m currently learning **Backend and Data Science**
 
-- 👨‍💻 All of my projects are available at Vercel: [https://vercel.com/ankitkr2004s-projects](https://vercel.com/ankitkr2004s-projects)
+- 👨‍💻 Projects available at Vercel: [https://vercel.com/ankitkr2004s-projects](https://vercel.com/ankitkr2004s-projects)
 
 - 📫 How to reach me **ankitkr829301@gmail.com**
 
