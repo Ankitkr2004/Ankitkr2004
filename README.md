@@ -87,11 +87,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkr2004&show_icons=true&locale=en" alt="ankitkr2004" /></p>
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ankitkr2004&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&timezone=Asia/Kolkata)
-
-
-
- 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ankitkr2004) 
 
 <br/>
 <h3 align="left">GitHub Contributions:</h3> 
