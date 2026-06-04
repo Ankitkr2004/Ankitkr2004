@@ -1,4 +1,4 @@
-![link](https://github.com/Ankitkr16/Ankitkr16/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![Banner](https://github.com/Ankitkr16/Ankitkr16/blob/main/Black%20Minimalist%20Linkedin%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <!-- Works better in HTML sections -->
